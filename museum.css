@@ -1,0 +1,33 @@
+body{
+  background-color: #f5d9d5;
+  font-family: cursive;
+}
+#main_navbar{
+  font-size: 24px;
+  font-weight: 200;
+
+}
+#main_navbar .navbar-brand{
+  color:magenta;
+
+}
+#span span{
+  color:magenta;
+}
+#span h2{
+  font-weight:100;
+  font-size: 64px;
+}
+.nav-link{
+  color:slateblue;
+}
+.nav-link:hover{
+  color:magenta;
+}
+#color h1{
+  color:magenta;
+}
+#trans span {
+  color:black;
+  opacity: 0.5;
+}
